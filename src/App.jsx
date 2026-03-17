@@ -47,7 +47,7 @@ const EMAILJS_SERVICE_ID  = "service_8ykrgpf";
 const EMAILJS_TEMPLATE_ID = "template_sj06z7n";
 const EMAILJS_PUBLIC_KEY  = "3rLebn0oZixvP6zWG";
 
-const ADMIN_CODE = "1234";
+const ADMIN_CODE = "0192";
 
 // ── Supabase fetch helpers ───────────────────────────────────
 const SB_HEADERS = {
