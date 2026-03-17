@@ -43,9 +43,9 @@ const SUPABASE_KEY = "sb_publishable_mfeiz_Zh_JmkHKotF2r9Xg_kaplDs6S";
 //  Template variables : {{to_email}} {{to_name}} {{service}}
 //                       {{date}} {{hour}} {{price}} {{type}}
 // ============================================================
-const EMAILJS_SERVICE_ID  = "VOTRE_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "VOTRE_TEMPLATE_ID";
-const EMAILJS_PUBLIC_KEY  = "VOTRE_PUBLIC_KEY";
+const EMAILJS_SERVICE_ID  = "service_8ykrgpf";
+const EMAILJS_TEMPLATE_ID = "template_sj06z7n";
+const EMAILJS_PUBLIC_KEY  = "3rLebn0oZixvP6zWG";
 
 const ADMIN_CODE = "1234";
 
